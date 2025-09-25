@@ -34,7 +34,7 @@ The core components of this project include:
 
 Here is a photo of the final working prototype. The system demonstrates the ability to light up LEDs sequentially as a toy car (simulating a vehicle) moves past the IR sensors in low-light conditions.
 
-![Output Image 1](output-1.png)
+![Output Image 1](output-1.jpg)
 _Figure 1: The complete circuit setup with the model roadway._
 
 ### How to Use
